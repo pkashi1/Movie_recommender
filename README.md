@@ -16,9 +16,7 @@ Welcome to the Movie Recommender ML Project repository! 🍿 Discover your next 
 
 Whether you're a movie enthusiast or just looking for something to watch tonight, this project has you covered. Follow the instructions below to get started:
 
-1. **Clone this Repository:** `git clone https://github.com/yourusername/movie-recommender.git`
-2. **Installation:** Install the required dependencies (instructions in the [Installation Guide](/docs/installation.md)).
-3. **Usage:** Explore and use our movie recommendation system through our intuitive interface (details in the [User Guide](/docs/user-guide.md)).
+1. **Clone this Repository:** `git clone https://github.com/pkashi1/Movie-recommender.git`
 
 ## Contributions Welcome 📈
 
